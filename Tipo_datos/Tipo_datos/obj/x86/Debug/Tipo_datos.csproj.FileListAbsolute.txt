@@ -1,0 +1,5 @@
+E:\PCPP\VISUAL C#\CURSO C#\Tipo_datos\Tipo_datos\bin\Debug\Tipo_datos.exe
+E:\PCPP\VISUAL C#\CURSO C#\Tipo_datos\Tipo_datos\bin\Debug\Tipo_datos.pdb
+E:\PCPP\VISUAL C#\CURSO C#\Tipo_datos\Tipo_datos\obj\x86\Debug\Tipo_datos.exe
+E:\PCPP\VISUAL C#\CURSO C#\Tipo_datos\Tipo_datos\obj\x86\Debug\Tipo_datos.pdb
+E:\PCPP\VISUAL C#\CURSO C#\Tipo_datos\Tipo_datos\obj\x86\Debug\Tipo_datos.csprojResolveAssemblyReference.cache

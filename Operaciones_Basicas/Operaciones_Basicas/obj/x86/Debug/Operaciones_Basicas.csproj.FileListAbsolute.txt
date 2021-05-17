@@ -1,0 +1,4 @@
+E:\PCPP\VISUAL C#\CURSO C#\Operaciones_Basicas\Operaciones_Basicas\bin\Debug\Operaciones_Basicas.exe
+E:\PCPP\VISUAL C#\CURSO C#\Operaciones_Basicas\Operaciones_Basicas\bin\Debug\Operaciones_Basicas.pdb
+E:\PCPP\VISUAL C#\CURSO C#\Operaciones_Basicas\Operaciones_Basicas\obj\x86\Debug\Operaciones_Basicas.exe
+E:\PCPP\VISUAL C#\CURSO C#\Operaciones_Basicas\Operaciones_Basicas\obj\x86\Debug\Operaciones_Basicas.pdb

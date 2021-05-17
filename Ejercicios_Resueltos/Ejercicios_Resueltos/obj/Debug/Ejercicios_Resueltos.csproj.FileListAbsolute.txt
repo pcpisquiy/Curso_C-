@@ -1,0 +1,7 @@
+E:\PCPP\VISUAL C#\CURSO C#\Ejercicios_Resueltos\Ejercicios_Resueltos\bin\Debug\Ejercicios_Resueltos.exe.config
+E:\PCPP\VISUAL C#\CURSO C#\Ejercicios_Resueltos\Ejercicios_Resueltos\bin\Debug\Ejercicios_Resueltos.exe
+E:\PCPP\VISUAL C#\CURSO C#\Ejercicios_Resueltos\Ejercicios_Resueltos\bin\Debug\Ejercicios_Resueltos.pdb
+E:\PCPP\VISUAL C#\CURSO C#\Ejercicios_Resueltos\Ejercicios_Resueltos\obj\Debug\Ejercicios_Resueltos.csprojAssemblyReference.cache
+E:\PCPP\VISUAL C#\CURSO C#\Ejercicios_Resueltos\Ejercicios_Resueltos\obj\Debug\Ejercicios_Resueltos.csproj.CoreCompileInputs.cache
+E:\PCPP\VISUAL C#\CURSO C#\Ejercicios_Resueltos\Ejercicios_Resueltos\obj\Debug\Ejercicios_Resueltos.exe
+E:\PCPP\VISUAL C#\CURSO C#\Ejercicios_Resueltos\Ejercicios_Resueltos\obj\Debug\Ejercicios_Resueltos.pdb

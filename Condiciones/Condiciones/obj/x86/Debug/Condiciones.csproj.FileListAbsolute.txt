@@ -1,0 +1,5 @@
+E:\PCPP\VISUAL C#\CURSO C#\Condiciones\Condiciones\bin\Debug\Condiciones.exe
+E:\PCPP\VISUAL C#\CURSO C#\Condiciones\Condiciones\bin\Debug\Condiciones.pdb
+E:\PCPP\VISUAL C#\CURSO C#\Condiciones\Condiciones\obj\x86\Debug\Condiciones.exe
+E:\PCPP\VISUAL C#\CURSO C#\Condiciones\Condiciones\obj\x86\Debug\Condiciones.pdb
+E:\PCPP\VISUAL C#\CURSO C#\Condiciones\Condiciones\obj\x86\Debug\Condiciones.csprojResolveAssemblyReference.cache

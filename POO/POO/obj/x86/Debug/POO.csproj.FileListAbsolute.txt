@@ -1,0 +1,5 @@
+E:\PCPP\VISUAL C#\CURSO C#\POO\POO\bin\Debug\POO.exe
+E:\PCPP\VISUAL C#\CURSO C#\POO\POO\bin\Debug\POO.pdb
+E:\PCPP\VISUAL C#\CURSO C#\POO\POO\obj\x86\Debug\POO.exe
+E:\PCPP\VISUAL C#\CURSO C#\POO\POO\obj\x86\Debug\POO.pdb
+E:\PCPP\VISUAL C#\CURSO C#\POO\POO\obj\x86\Debug\POO.csprojResolveAssemblyReference.cache

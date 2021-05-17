@@ -1,0 +1,5 @@
+E:\PCPP\VISUAL C#\CURSO C#\Ciclos_Bucles\Ciclos_Bucles\bin\Debug\Ciclos_Bucles.exe
+E:\PCPP\VISUAL C#\CURSO C#\Ciclos_Bucles\Ciclos_Bucles\bin\Debug\Ciclos_Bucles.pdb
+E:\PCPP\VISUAL C#\CURSO C#\Ciclos_Bucles\Ciclos_Bucles\obj\x86\Debug\Ciclos_Bucles.exe
+E:\PCPP\VISUAL C#\CURSO C#\Ciclos_Bucles\Ciclos_Bucles\obj\x86\Debug\Ciclos_Bucles.pdb
+E:\PCPP\VISUAL C#\CURSO C#\Ciclos_Bucles\Ciclos_Bucles\obj\x86\Debug\Ciclos_Bucles.csprojResolveAssemblyReference.cache
